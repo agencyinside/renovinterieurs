@@ -62,10 +62,10 @@ export default function MentionsLegales() {
 
         <LegalSection n={2} title="Hébergement">
           <p>
-            Le site est hébergé par Vercel Inc., 440 N Barranca Avenue #4133,
-            Covina, CA 91723, États-Unis —{" "}
-            <a href="https://vercel.com" target="_blank" rel="noopener noreferrer">
-              vercel.com
+            Le site est hébergé par o2switch SAS, 222-224 boulevard Gustave
+            Flaubert, 63000 Clermont-Ferrand, France -{" "}
+            <a href="https://www.o2switch.fr" target="_blank" rel="noopener noreferrer">
+              o2switch.fr
             </a>
             .
           </p>

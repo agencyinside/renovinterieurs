@@ -83,6 +83,8 @@ const CONSEILS_REMOVED = [
 ];
 
 const nextConfig: NextConfig = {
+  // Hébergement o2switch (Passenger) : serveur autonome, construit par GitHub Actions.
+  output: "standalone",
   // AVIF puis WebP : ~30 % de poids en moins sur les photos de chantier.
   images: {
     formats: ["image/avif", "image/webp"],
