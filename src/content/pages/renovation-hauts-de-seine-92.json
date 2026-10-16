@@ -46,7 +46,7 @@
         },
         {
           "t": "p",
-          "v": "Les quartiers récents du Trapèze à Boulogne, du Pont d’Issy ou des bords de Seine à Suresnes et Saint-Cloud appellent surtout de l’optimisation de plan et du [béton ciré](/beton-cire-paris). Au sud, les maisons de Sceaux, Antony ou Meudon demandent des rénovations complètes : isolation, réseaux, cuisine, salles de bain, avec parquets et cheminées à préserver."
+          "v": "Les quartiers récents du Trapèze à Boulogne, du Pont d’Issy ou des bords de Seine à Suresnes et Saint-Cloud appellent surtout de l’optimisation de plan et du [béton ciré](/beton-cire-paris). Au sud, les maisons de Sceaux, Antony ou Meudon demandent des rénovations complètes. Elles incluent la rénovation énergétique : isolation, réseaux, cuisine et salles de bain, avec parquets et cheminées à préserver."
         },
         {
           "t": "callout",
@@ -115,7 +115,7 @@
             },
             {
               "title": "Clichy",
-              "text": "Immeubles 1900-1970 du centre, nombreux logements classés F ou G, résidences du Bac d’Asnières, petits immeubles de standing de Beaujon. Sortie de passoire énergétique et rénovation partielle.",
+              "text": "Immeubles 1900-1970 du centre, nombreux logements classés F ou G, résidences du Bac d’Asnières, petits immeubles de standing de Beaujon. Sortie de passoire énergétique et rénovation partielle, avec isolation par l’intérieur. Informations sur les aides financières applicables.",
               "href": "/isolation-amelioration-energetique"
             },
             {
@@ -125,7 +125,7 @@
             },
             {
               "title": "Colombes",
-              "text": "Appartements 1920-1970 du centre, résidences du Petit Colombes, pavillons des années 1920 à 1950 des Vallées, de l’Agent-Sarre et de Bouvier. Isolation, installations remplacées, agrandissement possible.",
+              "text": "Appartements 1920-1970 du centre, résidences du Petit Colombes, pavillons des années 1920 à 1950 des Vallées, de l’Agent-Sarre et de Bouvier. Travaux thermiques, installations remplacées, agrandissement possible.",
               "href": "/renovation-gros-oeuvre-surelevation-extension-idf"
             },
             {
@@ -140,7 +140,7 @@
             },
             {
               "title": "Vanves",
-              "text": "Immeubles 1900-1970 du centre, résidences du Plateau, biens proches de la Porte de Versailles, à des prix voisins du 15e arrondissement. Rénovation complète ou partielle en copropriété.",
+              "text": "Immeubles 1900-1970 du centre, résidences du Plateau, biens proches de la Porte de Versailles, à des prix voisins du 15e arrondissement. Rénovation appartement Vanves : complète ou partielle en copropriété. Accès au métro 13 à la station Malakoff - Plateau de Vanves.",
               "href": "/salle-de-bain-paris"
             },
             {
@@ -191,7 +191,7 @@
       "blocks": [
         {
           "t": "p",
-          "v": "Les budgets du département sont légèrement en retrait de Paris, sauf à Neuilly et Saint-Cloud où le niveau de prestation tire les devis vers le haut. Fourchettes hors taxes, indicatives pour 2026 ; seul un devis après visite fait foi."
+          "v": "Les budgets du département sont légèrement en retrait de Paris, sauf à Neuilly et Saint-Cloud où le niveau de prestation, notamment sur les fenêtres, tire les devis vers le haut. Fourchettes hors taxes, indicatives pour 2026 ; nos artisans chiffrent poste par poste, et seul un devis après visite fait foi."
         },
         {
           "t": "table",
@@ -221,7 +221,7 @@
         },
         {
           "t": "p",
-          "v": "La grille complète, les facteurs de variation et des exemples chiffrés sont réunis sur [notre page prix](/prix-renovation). Pour un premier ordre de grandeur, utilisez [l’estimateur de budget](/outils/estimateur-budget-renovation)."
+          "v": "La grille complète, les facteurs de variation comme la peinture et des exemples chiffrés sont réunis sur [notre page prix](/prix-renovation). Pour un premier ordre de grandeur, utilisez [l’estimateur de budget](/outils/estimateur-budget-renovation). Pour le détail poste par poste, lisez [combien coûte une rénovation à Paris](/conseils/combien-coute-renovation-appartement-paris)."
         }
       ]
     },
@@ -237,11 +237,11 @@
             },
             {
               "q": "Mon appartement de Boulogne ou de Clichy est classé F : que proposez-vous ?",
-              "a": "Les immeubles des années 1930 à 1970 de ces communes sont souvent des passoires énergétiques. Audit, isolation des murs ou des combles quand c’est possible, VMC double flux et nouveau chauffage, dossiers MaPrimeRénov’ et CEE compris : l’objectif est de gagner 2 à 3 classes. Détails sur [notre offre isolation](/isolation-amelioration-energetique)."
+              "a": "Les immeubles des années 1930 à 1970 de ces communes sont souvent des passoires énergétiques. Audit, isolation des murs ou des combles en laine de verre quand c’est possible, VMC double flux et nouveau chauffage, dossiers MaPrimeRénov’, CEE et éco-prêt à taux zéro compris : l’objectif est de gagner 2 à 3 classes. Si les travaux modifient l’aspect extérieur de l’immeuble, une déclaration préalable de travaux peut être nécessaire, à déposer en mairie. Détails sur [notre offre isolation](/isolation-amelioration-energetique)."
             },
             {
               "q": "Une maison de Sceaux ou de Bois-Colombes peut-elle garder son cachet ?",
-              "a": "C’est le principe de nos chantiers de maison : parquets en chêne, cheminées en marbre, escaliers à balustres et moulures sont restaurés pendant que plomberie, électricité, isolation et chauffage sont refaits. Le planning détaillé vous est remis avec le devis."
+              "a": "C’est le principe de nos chantiers de maison : parquets en chêne, cheminées en marbre, escaliers à balustres et moulures sont restaurés pendant que plomberie, électricité, isolation, chauffage et carrelage sont refaits. Une façade modifiée peut demander une déclaration préalable de travaux, à déposer en mairie. Le planning détaillé vous est remis avec le devis."
             }
           ]
         }
@@ -252,7 +252,7 @@
     {
       "label": "Rénovation d’appartement",
       "href": "/renovation-appartement-paris",
-      "desc": "Second œuvre tous corps d’état, du diagnostic à la remise des clés"
+      "desc": "Second œuvre tous corps d’état, du diagnostic à la remise des clés, studio ou grand appartement"
     },
     {
       "label": "Salle de bain étanche",
